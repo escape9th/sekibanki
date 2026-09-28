@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.sekibanki/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+.git-local/
+.git-worktree-check/
